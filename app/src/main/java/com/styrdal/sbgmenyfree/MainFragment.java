@@ -2,6 +2,8 @@ package com.styrdal.sbgmenyfree;
 
 import java.io.IOException;
 
+import com.google.android.gms.ads.AdRequest;
+import com.google.android.gms.ads.AdView;
 import com.styrdal.sbgmenyfree.RestaurantsContract.RestaurantsEntry;
 
 import android.content.Context;
@@ -25,6 +27,11 @@ public class MainFragment extends ListFragment
 	protected static final String TAG = "MainActivityFragment";
 	public final static String EXTRA_MESSAGE = "com.styrdal.SbgMeny.MESSAGE";
 
+	private View myFragment;
+
+	private AdView adView;
+	private String adUnitId = "ca-app-pub-6095611948758304/4308520274";
+
 	private SQLiteDatabase db;
 
 	//Enabling options menu
@@ -41,7 +48,15 @@ public class MainFragment extends ListFragment
 
 		try
 		{
-			View fragmentView = inflater.inflate(R.layout.activity_main_fragment, container, false);
+			myFragment = inflater.inflate(R.layout.activity_display_menu_fragment, container, false);
+
+			adView = (AdView) myFragment.findViewById(R.id.main_adView);
+
+			AdRequest adRequest = new AdRequest.Builder().addTestDevice(AdRequest.DEVICE_ID_EMULATOR).addTestDevice("F612D0D385B3CF6780BF9DC4CE1F0451").build();
+			adView.loadAd(adRequest);
+
+
+
 
 			RestaurantsDBHelper mDbHelper;
 
