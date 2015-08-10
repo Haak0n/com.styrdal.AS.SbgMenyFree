@@ -25,7 +25,7 @@ public class RestaurantsDBHelper extends SQLiteOpenHelper {
   public static final String DB_VERSION_CURRENT = "com.styrdal.dbVersionCurrent";
   public static final String DB_VERSION_NEWEST = "com.styrdal.dbVersionNewest";
   
-  private final int VERSION = 15;
+  private final int VERSION = 170;
 
   public RestaurantsDBHelper(Context context, String dbName, String assetPath) throws IOException {
     super(context, dbName, null, 1);

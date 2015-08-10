@@ -27,10 +27,6 @@ public class MainFragment extends ListFragment
 	protected static final String TAG = "MainActivityFragment";
 	public final static String EXTRA_MESSAGE = "com.styrdal.SbgMeny.MESSAGE";
 
-	private View myFragment;
-
-	private AdView adView;
-	private String adUnitId = "ca-app-pub-6095611948758304/4308520274";
 
 	private SQLiteDatabase db;
 
@@ -48,15 +44,7 @@ public class MainFragment extends ListFragment
 
 		try
 		{
-			myFragment = inflater.inflate(R.layout.activity_display_menu_fragment, container, false);
-
-			adView = (AdView) myFragment.findViewById(R.id.main_adView);
-
-			AdRequest adRequest = new AdRequest.Builder().addTestDevice(AdRequest.DEVICE_ID_EMULATOR).addTestDevice("F612D0D385B3CF6780BF9DC4CE1F0451").build();
-			adView.loadAd(adRequest);
-
-
-
+			inflater.inflate(R.layout.activity_main_fragment, container, false);
 
 			RestaurantsDBHelper mDbHelper;
 
@@ -143,6 +131,7 @@ public class MainFragment extends ListFragment
 			String[] projection = {RestaurantsEntry.COLUMN_NAME_NAME, RestaurantsEntry._ID, RestaurantsEntry.COLUMN_NAME_IDNAME, RestaurantsEntry.COLUMN_NAME_SUNDAY_OPEN, RestaurantsEntry.COLUMN_NAME_SUNDAY_CLOSE};
 			return projection;
 		}
+
 		else
 		{
 			Log.e(TAG, "Invalid day of week. Exiting.");
@@ -150,7 +139,6 @@ public class MainFragment extends ListFragment
 			return null;
 		}
 	}
-
 	@Override
 	public boolean onOptionsItemSelected(MenuItem item) {
 		Log.i(TAG, "pressed a button!");

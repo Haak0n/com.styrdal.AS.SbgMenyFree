@@ -2149,8 +2149,8 @@ containing a value of this type.
         public static final int line3=0x7f0d00d5;
         public static final int listMode=0x7f0d000a;
         public static final int list_item=0x7f0d0041;
-        public static final int main_adView=0x7f0d00b3;
-        public static final int main_fragment=0x7f0d00b2;
+        public static final int main_adView=0x7f0d00b2;
+        public static final int main_fragment=0x7f0d00b3;
         public static final int main_list_close=0x7f0d00b5;
         public static final int main_list_separator=0x7f0d00b6;
         public static final int main_name=0x7f0d00b4;

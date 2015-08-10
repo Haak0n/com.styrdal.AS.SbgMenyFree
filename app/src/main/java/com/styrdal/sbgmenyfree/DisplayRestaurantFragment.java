@@ -24,7 +24,7 @@ import android.widget.TextView;
 
 public class DisplayRestaurantFragment extends Fragment {
 
-	protected static final String TAG = "DisplayRestaurantFragment";
+	protected static final String TAG = "RestaurantFragment";
 	public final static String EXTRA_MESSAGE = "com.styrdal.SbgMeny.MESSAGE";
 	private String dbName = "restauranger.db";
 	private SQLiteDatabase db;
