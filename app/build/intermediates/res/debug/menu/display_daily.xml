@@ -1,0 +1,17 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+<item android:id="@+id/next_week"
+	android:showAsAction="never"
+	android:title="@string/next_week"/>
+
+<item android:id="@+id/current_week"
+	android:showAsAction="never"
+	android:visible="false"
+	android:title="@string/current_week"/>
+	
+<item android:id="@+id/prev_week"
+	android:showAsAction="never"
+	android:title="@string/prev_week"/>
+
+</menu>
+<!-- From: file:/E:/Android%20Studio%20Projects/SbgMenyFree1/app/src/main/res/menu/display_daily.xml -->

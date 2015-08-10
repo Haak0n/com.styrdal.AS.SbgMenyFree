@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\Android Studio Projects\SbgMenyFree1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1e98ef3f124bb7a11f8575f9ff5dfea330b61b6f">
+        <dex dex="E:\Android Studio Projects\SbgMenyFree1\app\build\intermediates\pre-dexed\debug\classes-b9817e19734cab5f3de2d9c57828c327bb60fc9a.jar" />
+    </item>
+    <item
+        jar="E:\Android Studio Projects\SbgMenyFree1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1a6411087ab88ce5542f593e63a2752b6b0d6f1a">
+        <dex dex="E:\Android Studio Projects\SbgMenyFree1\app\build\intermediates\pre-dexed\debug\classes-95f18f90451b1e741d0bd761de39937ec79a6627.jar" />
+    </item>
+    <item
+        jar="E:\Android Studio Projects\SbgMenyFree1\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a1372c17fccacca753d3951d3ad820571cbce075">
+        <dex dex="E:\Android Studio Projects\SbgMenyFree1\app\build\intermediates\pre-dexed\debug\classes-426161e1bddc24236dbd21edbe1c14cfb9b18b2a.jar" />
+    </item>
+    <item
+        jar="E:\Program\Android SDK\extras\android\m2repository\com\android\support\support-annotations\22.2.1\support-annotations-22.2.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="E:\Android Studio Projects\SbgMenyFree1\app\build\intermediates\pre-dexed\debug\support-annotations-22.2.1-c79932220dfd9cdf2528587d2c0ad22053e172fe.jar" />
+    </item>
+    <item
+        jar="E:\Android Studio Projects\SbgMenyFree1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="02bac2dc792d78241077861566f2c82da955e7fa">
+        <dex dex="E:\Android Studio Projects\SbgMenyFree1\app\build\intermediates\pre-dexed\debug\classes-098ee32c844ff63200f97de11a2ede7c75b4a2a4.jar" />
+    </item>
+    <item
+        jar="E:\Android Studio Projects\SbgMenyFree1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d405025c600055237c171a0bbabaa49d69696573">
+        <dex dex="E:\Android Studio Projects\SbgMenyFree1\app\build\intermediates\pre-dexed\debug\classes-1fef01dcbbbcb719610c8afaa25773c9c6cffb97.jar" />
+    </item>
+    <item
+        jar="E:\Android Studio Projects\SbgMenyFree1\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.0.0\jars\libs\internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="ba3df4eb0a630d7de294f0e48d3f9267d279b784">
+        <dex dex="E:\Android Studio Projects\SbgMenyFree1\app\build\intermediates\pre-dexed\debug\internal_impl-22.0.0-212afd41654eb42f129a5ba61ac23ec2f72ef1e5.jar" />
+    </item>
+    <item
+        jar="E:\Android Studio Projects\SbgMenyFree1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="69dd177337ead693c408c8dddc9546bb6f1244fa">
+        <dex dex="E:\Android Studio Projects\SbgMenyFree1\app\build\intermediates\pre-dexed\debug\classes-a5b010f6608160efbddf148afeaac36392c0a8d7.jar" />
+    </item>
+    <item
+        jar="E:\Android Studio Projects\SbgMenyFree1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f02127a85abd52a2cd526d4c2409f21969f80ee8">
+        <dex dex="E:\Android Studio Projects\SbgMenyFree1\app\build\intermediates\pre-dexed\debug\classes-53467d1869e56a0821d9e7bd8edf43d4da941e13.jar" />
+    </item>
+    <item
+        jar="E:\Android Studio Projects\SbgMenyFree1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e7b35244f50663b3f8d150714bca9ecd7a290da1">
+        <dex dex="E:\Android Studio Projects\SbgMenyFree1\app\build\intermediates\pre-dexed\debug\classes-3bc4a1165d765708e84fcd3c230daf774bee1aca.jar" />
+    </item>
+    <item
+        jar="E:\Android Studio Projects\SbgMenyFree1\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="E:\Android Studio Projects\SbgMenyFree1\app\build\intermediates\pre-dexed\debug\classes-235f3705d8383b4aecf0b11bb37c4fccd6cf7ddb.jar" />
+    </item>
+    <item
+        jar="E:\Android Studio Projects\SbgMenyFree1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appstate\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="68c140702c7242d914655bcb3164d9e8c45b84cb">
+        <dex dex="E:\Android Studio Projects\SbgMenyFree1\app\build\intermediates\pre-dexed\debug\classes-9b32e0b4ae28b682291cfca3682a33136b54272b.jar" />
+    </item>
+    <item
+        jar="E:\Android Studio Projects\SbgMenyFree1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="06a42becc33232ec0ee125161da68c1829c9f8fd">
+        <dex dex="E:\Android Studio Projects\SbgMenyFree1\app\build\intermediates\pre-dexed\debug\classes-2581ad58307cc8c741d9f43c73d322e6317aa484.jar" />
+    </item>
+    <item
+        jar="E:\Android Studio Projects\SbgMenyFree1\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="E:\Android Studio Projects\SbgMenyFree1\app\build\intermediates\pre-dexed\debug\classes-893be5a10c40ddf5b6772ccd4a2befa2b08645cd.jar" />
+    </item>
+    <item
+        jar="E:\Android Studio Projects\SbgMenyFree1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a172852a35ff919e85b9b7f14bbc15c5bee25520">
+        <dex dex="E:\Android Studio Projects\SbgMenyFree1\app\build\intermediates\pre-dexed\debug\classes-b2f18c7e9ac638b8aa24b0547d5b5278083dfc8f.jar" />
+    </item>
+    <item
+        jar="E:\Android Studio Projects\SbgMenyFree1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="6440e5e5cfe368f9bff3c537fb8988048069cb33">
+        <dex dex="E:\Android Studio Projects\SbgMenyFree1\app\build\intermediates\pre-dexed\debug\classes-c3ef89a1996859ab003b155462c7e5641bff22c2.jar" />
+    </item>
+    <item
+        jar="E:\Android Studio Projects\SbgMenyFree1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="272bc5d7063f24bc3a33ea1d318cde8f31f5ec4c">
+        <dex dex="E:\Android Studio Projects\SbgMenyFree1\app\build\intermediates\pre-dexed\debug\classes-8dc8ca9e9b3ffd9386acd1ec7152206407d7ff4b.jar" />
+    </item>
+    <item
+        jar="E:\Android Studio Projects\SbgMenyFree1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a78183f30e769a98ab4820794f597763088d3065">
+        <dex dex="E:\Android Studio Projects\SbgMenyFree1\app\build\intermediates\pre-dexed\debug\classes-11d0783c24347c981f13e20b5d47f80c6c8928d6.jar" />
+    </item>
+    <item
+        jar="E:\Android Studio Projects\SbgMenyFree1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f44d03c138cb6488fdbaa65e3a7e5878861a56d8">
+        <dex dex="E:\Android Studio Projects\SbgMenyFree1\app\build\intermediates\pre-dexed\debug\classes-b2ba14c9c32e1c109848b5adabe680f9c102d8f9.jar" />
+    </item>
+    <item
+        jar="E:\Android Studio Projects\SbgMenyFree1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="6836d188602ec5382d1967c58b00960eb8ff8773">
+        <dex dex="E:\Android Studio Projects\SbgMenyFree1\app\build\intermediates\pre-dexed\debug\classes-31a6321daad678299a65b72b842b5974b4807b5b.jar" />
+    </item>
+    <item
+        jar="E:\Android Studio Projects\SbgMenyFree1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="8d736fefa22d896e84a268354b3ed48a42663150">
+        <dex dex="E:\Android Studio Projects\SbgMenyFree1\app\build\intermediates\pre-dexed\debug\classes-b868a784d4b23c0e820b3abceabc13d4826081b1.jar" />
+    </item>
+    <item
+        jar="E:\Android Studio Projects\SbgMenyFree1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="29ebc7e04d877062317c8cc0e68b20f0c1fcda66">
+        <dex dex="E:\Android Studio Projects\SbgMenyFree1\app\build\intermediates\pre-dexed\debug\classes-473e1342097036a914a8d20686ac328dea09969e.jar" />
+    </item>
+    <item
+        jar="E:\Android Studio Projects\SbgMenyFree1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="ba207be21987c11b37d9f8faa08ed6e722569f30">
+        <dex dex="E:\Android Studio Projects\SbgMenyFree1\app\build\intermediates\pre-dexed\debug\classes-bc81618d41b840b057bbe6849fdd327e77bd5d0a.jar" />
+    </item>
+    <item
+        jar="E:\Android Studio Projects\SbgMenyFree1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="63ec6e9f4fe5482a7447d0f3091b8e543a02554c">
+        <dex dex="E:\Android Studio Projects\SbgMenyFree1\app\build\intermediates\pre-dexed\debug\classes-5ad4e26edf157210a5f8609223c57078e993684d.jar" />
+    </item>
+    <item
+        jar="E:\Android Studio Projects\SbgMenyFree1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="8e3a972f28b8bae817e382257ba177a31bcadbbc">
+        <dex dex="E:\Android Studio Projects\SbgMenyFree1\app\build\intermediates\pre-dexed\debug\classes-bdd8398d2cd91d314ddd137472dec2f953697b9c.jar" />
+    </item>
+    <item
+        jar="E:\Android Studio Projects\SbgMenyFree1\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\libs\internal_impl-22.2.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="E:\Android Studio Projects\SbgMenyFree1\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.1-4066ceec23f1204341e0fb979fabe734c3baec22.jar" />
+    </item>
+
+</items>
