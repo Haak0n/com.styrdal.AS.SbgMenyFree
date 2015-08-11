@@ -1,0 +1,43 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android" 
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    >
+    
+    <TextView android:id="@+id/main_name"
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:paddingTop="5sp"
+        android:paddingBottom="5sp"
+        android:paddingLeft="5sp"
+        android:gravity="center"
+        android:textSize="@dimen/head_title" />
+    
+    <TextView android:id="@+id/main_list_close"
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:layout_alignParentRight="true"
+        android:paddingTop="5sp"
+        android:paddingBottom="5sp"
+        android:paddingRight="5sp"
+        android:gravity="center"
+        android:textSize="@dimen/title" />  
+    
+    <TextView android:id="@+id/main_list_separator"
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:layout_toLeftOf="@id/main_list_close"
+        android:paddingTop="5sp"
+        android:paddingBottom="5sp"
+        android:gravity="center"
+        android:textSize="@dimen/title" />
+    
+    <TextView android:id="@+id/main_open"
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:layout_toLeftOf="@id/main_list_separator"
+        android:paddingTop="5sp"
+        android:paddingBottom="5sp"
+        android:gravity="center"
+        android:textSize="@dimen/title" />
+    
+</RelativeLayout><!-- From: file:/E:/Android%20Studio%20Projects/SbgMenyFree1/app/src/main/res/layout/main_list.xml -->
